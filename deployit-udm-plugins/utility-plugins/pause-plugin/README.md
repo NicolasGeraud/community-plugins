@@ -1,3 +1,6 @@
+# DEPRECATED #
+Source code is now hosted here : https://github.com/xebialabs-community/xld-pause-plugin
+
 ## Description
 
 A Deployit 3.8 plugin that generate pause steps.
